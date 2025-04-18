@@ -61,8 +61,8 @@ Forecast sample plot:
 ````
 🧑‍💻 Author
 
-Mohammad Shoumik Raihan (https://github.com/Z0G)
+Mohammad Shoumik Raihan [@Z0G](https://github.com/Z0G)
 
 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
